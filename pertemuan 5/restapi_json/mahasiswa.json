@@ -1,0 +1,28 @@
+{
+    "mahasiswa": [
+        {
+            "nama": "abdul mujib",
+            "social_media": {
+                "facebook": "abdulmujib",
+                "twitter": "@mujibabdulcore",
+                "instagram": "@mujibabdulcore"
+            }
+        },
+        {
+            "nama": "samsul muhtajib",
+            "social_media": {
+                "facebook": "samsulmuhtajib",
+                "twitter": "@muhtajibsamsulariffin",
+                "instagram": "@muhtajibsamsulariffin"
+            }
+        },
+        {
+            "nama": "ahmad muhajirin",
+            "social_media": {
+                "facebook": "ahmadmuhajirin",
+                "twitter": "@ahmadmuhajirinkosong",
+                "instagram": "@ahmadmuhajirinkosong"
+            }
+        }
+    ]
+}

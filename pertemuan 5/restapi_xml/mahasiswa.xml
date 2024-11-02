@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mahasiswa>
+    <nama>Amad</nama>
+    <alamat>Sukojati</alamat>
+    <jurusan>Teknik Informatika</jurusan>
+
+    <hobi name="Mancing"/>
+    <hobi name="Olahraga"/>
+    <hobi name="Membaca"/>
+</mahasiswa> 
